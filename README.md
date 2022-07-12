@@ -21,6 +21,8 @@ npx babel index.js -o compiled-script.js
 
 npx babel index.js -o compiled-script. js --presets=@babel/preset-env
 
+npm install core-js
+
 ```
 
 
